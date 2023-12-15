@@ -3,8 +3,8 @@
 
 /* 기본 설정 */
 :root {
-	--maincolor: #ef6e99;	/* 메인색 */
-	--bgcolor: #fac1c7;		/* 배경색 */
+	--maincolor: #ef6e99;	/* 메인색 원래 #6a49a8 */
+	--bgcolor: #fac1c7;		/* 배경색 원래 #f3f2f0 */
 }
 
 html.darkmode:root {
