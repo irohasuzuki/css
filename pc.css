@@ -4,7 +4,7 @@
 /* 기본 설정 */
 :root {
 	--maincolor: #6a49a8;	/* 메인색 */
-	--bgcolor: #f3f2f0;	/* 배경색 */
+	--bgcolor: #EF6E99;	/* 배경색 */
 }
 
 html.darkmode:root {
